@@ -1,5 +1,6 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
+🥳 Please join my patreon community https://patreon.com/camenduru <br />
 
 ## Unreal Engine Puzzle Collection
 Main branch contains blueprints for `UE5.0` and `UE5.1` also we have `UE4.26` and `UE4.27` branches 
